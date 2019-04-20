@@ -1,5 +1,7 @@
 {
-  "broadcast": null,
+  "broadcast": {
+    "body": "Gjenbruksstasjonene holder stengt i påsken. Åpner igjen tirsdag 23.04."
+  },
   "version": {
     "minApp": "0.0.0",
     "minOS": "9.0"
